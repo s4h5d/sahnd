@@ -724,13 +724,13 @@
       "type": 1
     },
     {
-      "name": "Snapchat",
-      "version": "12.20.0",
+      "name": "Snapchat Falcon +",
+      "version": "12.40.0",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Starfiles",
       "subtitle": "Snapchat on Starfiles",
       "versionDate": "2023-03-03T10:41:51+00:00",
-      "downloadURL": "https://sts.st/d/04621b354cb7",
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-07-2023/Snapchat_12.40.0_Falcon_2.0_%40thisismanpreets_apptesters_org.ipa",
       "iconURL": "https://sts.st/bi/com.toyopagroup.picaboo",
       "tintColor": "5bbad5",
       "size": 86346261
