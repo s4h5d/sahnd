@@ -210,21 +210,6 @@
       "size": 68880209
     },
     {
-      "name": "DeLogo",
-      "bundleID": "DeLogo_4.0.5_Satella_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "DeLogo_4.0.5_Satella_@thisismanpreets_apptesters.org",
-      "version": "4.0.5",
-      "versionDate": "2023-06-19",
-      "fullDate": "20230619205921",
-      "size": 74997384,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/DeLogo_4.0.5_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/DeLogo_4.0.5_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/dyy.david.delogo.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/dyy.david.delogo.png"
-    },
-    {
       "name": "Discord",
       "version": "114.0",
       "bundleIdentifier": "com.hammerandchisel.discord",
@@ -479,21 +464,6 @@
       "size": 130227148
     },
     {
-      "name": "Instories",
-      "bundleID": "Instories_5.29.0_Premium_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "Instories_5.29.0_Premium_@thisismanpreets_apptesters.org",
-      "version": "5.29.0",
-      "versionDate": "2023-06-18",
-      "fullDate": "20230618163811",
-      "size": 204412080,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/Instories_5.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/Instories_5.29.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ylee.studio.instories.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ylee.studio.instories.png"
-    },
-    {
       "name": "iSTB",
       "bundleID": "iSTB_1.25.1_@thisismanpreets_apptesters.org",
       "bundleIdentifier": "iSTB_1.25.1_@thisismanpreets_apptesters.org",
@@ -685,21 +655,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.YunFang.PhotoGrid.png"
     },
     {
-      "name": "PocketCity2",
-      "bundleID": "PocketCity2_1.023_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "PocketCity2_1.023_@thisismanpreets_apptesters.org",
-      "version": "1.023",
-      "versionDate": "2023-06-21",
-      "fullDate": "20230621145337",
-      "size": 132114981,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/PocketCity2_1.023_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/PocketCity2_1.023_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.codebrewgames.pocketcity2.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.codebrewgames.pocketcity2.png"
-    },
-    {
       "name": "PojavLauncher",
       "version": "2.2",
       "bundleIdentifier": "net.kdt.pojavlauncher",
@@ -710,21 +665,6 @@
       "iconURL": "https://sts.st/bi/net.kdt.pojavlauncher",
       "tintColor": "5bbad5",
       "size": 113177388
-    },
-    {
-      "name": "RECProVideoCamera",
-      "bundleID": "RECProVideoCamera_5.2.3_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "RECProVideoCamera_5.2.3_@thisismanpreets_apptesters.org",
-      "version": "5.2.3",
-      "versionDate": "2023-06-19",
-      "fullDate": "20230619223510",
-      "size": 12795004,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/20-06-2023/RECProVideoCamera_5.2.3_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-06-2023/RECProVideoCamera_5.2.3_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.latenitesoft.Rec.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.latenitesoft.Rec.png"
     },
     {
       "name": "RiddleRoad",
@@ -864,21 +804,6 @@
       "size": 45951818
     },
     {
-      "name": "TextNow",
-      "bundleID": "TextNow_23.21.0_NoAds_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "TextNow_23.21.0_NoAds_@thisismanpreets_apptesters.org",
-      "version": "23.21.0",
-      "versionDate": "2023-06-20",
-      "fullDate": "20230620221328",
-      "size": 97978829,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/TextNow_23.21.0_NoAds_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/TextNow_23.21.0_NoAds_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with NoAds",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.tinginteractive.usms.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.tinginteractive.usms.png"
-    },
-    {
       "name": "TextNow++",
       "bundleIdentifier": "com.textnow.gopix",
       "developerName": "sahnd ",
@@ -908,21 +833,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
-      "name": "TrueVHS",
-      "bundleID": "TrueVHS_1.983_Satella_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "TrueVHS_1.983_Satella_@thisismanpreets_apptesters.org",
-      "version": "1.983",
-      "versionDate": "2023-06-19",
-      "fullDate": "20230619205847",
-      "size": 41493515,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/TrueVHS_1.983_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/TrueVHS_1.983_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cangodev.truevhs.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cangodev.truevhs.png"
-    },
-    {
       "name": "Twitter",
       "bundleID": "Twitter_9.63_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
       "bundleIdentifier": "Twitter_9.63_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
@@ -936,21 +846,6 @@
       "localizedDescription": "Injected with BHTwitter 3.9.1",
       "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
-    },
-    {
-      "name": "Ultralingua",
-      "bundleID": "Ultralingua_2.10_Satella_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "Ultralingua_2.10_Satella_@thisismanpreets_apptesters.org",
-      "version": "2.10",
-      "versionDate": "2023-06-19",
-      "fullDate": "20230619205905",
-      "size": 23465258,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/Ultralingua_2.10_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/Ultralingua_2.10_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ultralingua.ios.dictionary.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ultralingua.ios.dictionary.png"
     },
     {
       "name": "unofficial stefvcks",
@@ -977,21 +872,6 @@
       "size": 88122989
     },
     {
-      "name": "VideoSplitterPro",
-      "bundleID": "VideoSplitterPro_CutStory_1_0_Satella_@thisismanpreets_apptesters",
-      "bundleIdentifier": "VideoSplitterPro_CutStory_1_0_Satella_@thisismanpreets_apptesters",
-      "version": "CutStory",
-      "versionDate": "2023-06-20",
-      "fullDate": "20230620222352",
-      "size": 30482319,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/VideoSplitterPro_CutStory_1_0_Satella_%40thisismanpreets_apptesters.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/VideoSplitterPro_CutStory_1_0_Satella_%40thisismanpreets_apptesters.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with 1 0 Satella",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lethobinh.cutstory.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lethobinh.cutstory.png"
-    },
-    {
       "name": "VPNBucks",
       "bundleID": "VPNBucks_2.1.0_Premium_@thisismanpreets_apptesters.org",
       "bundleIdentifier": "VPNBucks_2.1.0_Premium_@thisismanpreets_apptesters.org",
@@ -1005,21 +885,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.vpn-buck.proxy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.vpn-buck.proxy.png"
-    },
-    {
-      "name": "VPNRocket",
-      "bundleID": "VPNRocket_1.5_Premium_@thisismanpreets_apptesters.org",
-      "bundleIdentifier": "VPNRocket_1.5_Premium_@thisismanpreets_apptesters.org",
-      "version": "1.5",
-      "versionDate": "2023-06-18",
-      "fullDate": "20230618181906",
-      "size": 7856056,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/VPNRocket_1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/VPNRocket_1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.vpnmaster.VPNOneTap.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.vpnmaster.VPNOneTap.png"
     },
     {
       "name": "WashingtonPost",
@@ -1047,21 +912,6 @@
       "iconURL": "https://sts.st/bi/com.google.ios.youtube",
       "tintColor": "5bbad5",
       "size": 124074764
-    },
-    {
-      "name": "YouTubeMusic",
-      "bundleID": "YouTubeMusic_6.07.1_YTMusicUltimate_1.4.1_@asdfzxcvbn0_apptesters.org",
-      "bundleIdentifier": "YouTubeMusic_6.07.1_YTMusicUltimate_1.4.1_@asdfzxcvbn0_apptesters.org",
-      "version": "6.07.1",
-      "versionDate": "2023-06-20",
-      "fullDate": "20230620191443",
-      "size": 83628081,
-      "down": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/YouTubeMusic_6.07.1_YTMusicUltimate_1.4.1_%40asdfzxcvbn0_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-06-2023/YouTubeMusic_6.07.1_YTMusicUltimate_1.4.1_%40asdfzxcvbn0_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with YTMusicUltimate 1.4.1",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
     }
   ]
 }
